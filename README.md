@@ -10,7 +10,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munaji-id&theme=default&layout=compact&langs_count=6&hide=shell)](https://github.com/munaji-id)
-[![Syarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsyarif&show_icons=true&theme=defaultk&layout=compact&line_height=20&card_width=380&count_private=true)](https://github.com/munaji-id)
+[![Syarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=munaji-id&show_icons=true&theme=defaultk&layout=compact&line_height=20&card_width=380&count_private=true)](https://github.com/munaji-id)
 
 <!-- - 🛠  Tools PHP, jQuery, Javascript, Nodejs. 
 - 📫 How to reach me on [E-mail](mailto:id.syarif@gmail.com)
