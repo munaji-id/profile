@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on jobs, freelance and part time.
 
 ##
- [![Linkedin Badge](https://img.shields.io/badge/%20-Syarif%20Hidayatulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munaji.id)](https://www.linkedin.com/in/syarif-hidayatulloh-427718a8) [![Gmail Badge](https://img.shields.io/badge/%20-munaji.id@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munaji.id@gmail.com)](mailto:munaji.id@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/%20-Munaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munaji.id)](https://www.linkedin.com/in/munaji.id) [![Gmail Badge](https://img.shields.io/badge/%20-munaji.id@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munaji.id@gmail.com)](mailto:munaji.id@gmail.com)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munaji-id&theme=default&layout=compact&langs_count=6&hide=shell)](https://github.com/munaji-id)
